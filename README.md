@@ -19,8 +19,6 @@ O Awax foi um projeto desenvolvido durante as aulas da plataforma B7WEB do módu
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através dos links abaixo:
-
-- [Layout Web]() 
+<!--Você pode visualizar o layout do projeto através dos links abaixo:- [Layout Web]() -->
 
 <p align="center">Desenvolvido por Shayane Teixeira e B7WEB</p>
