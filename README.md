@@ -10,8 +10,8 @@
 
 Esse projeto foi desenvolvido utilizando essas tecnologias:
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## 💻 Projeto
 
